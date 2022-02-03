@@ -1,4 +1,4 @@
-# Updated to [1.2] Warfare 2
+# Updated to [1.2 Warfare 2]
 Test the DLC's in your own server to see if they're actually worth your money
 
 You all know the drill, you replace the files in C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers  (Default)
